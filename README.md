@@ -42,7 +42,7 @@ The system follows a simple client-server architecture:
 
 ```powershell
 git clone https://github.com/amitpawar3669/dietplan-recommendation-system.git
-cd <your-repo>
+cd .\DietPlanRecommendations\
 ```
 
 ### Backend setup
