@@ -41,7 +41,7 @@ The system follows a simple client-server architecture:
 ### Clone the repository
 
 ```powershell
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/amitpawar3669/dietplan-recommendation-system.git
 cd <your-repo>
 ```
 
